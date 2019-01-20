@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @Zaria Coprich
  */
 
 public class Class2 {
